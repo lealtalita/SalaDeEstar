@@ -9,3 +9,5 @@ Organização dos meus estudos por tópico.
  
  <h4>Java</h4>
  
+ [Exercícios](https://github.com/lealtalita/exercicios)
+ 
