@@ -1,4 +1,4 @@
-# SalaDeEstar
+# Sala de Estar
 Organização dos meus estudos por tópico.
 
 C#
