@@ -1,5 +1,5 @@
-# Sala de Estar
-Organização dos meus estudos por tópico.
+# Sala de Estar 
+:wink: Organização dos meus estudos por tópico.
 
 <h4>C#</h4>
 
