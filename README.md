@@ -5,9 +5,10 @@
 
 
  [Cadastro de Séries](https://github.com/lealtalita/cadastro-de-series) <br>
- [Jogo de RPG](https://github.com/lealtalita/jogoRPG)
+ [Jogo de RPG](https://github.com/lealtalita/jogoRPG) <br>
+ [Exercícios C#](https://github.com/lealtalita/exerciciosC)
  
  <h4>Java</h4>
  
- [Exercícios](https://github.com/lealtalita/exercicios)
+ [Exercícios Java](https://github.com/lealtalita/exercicios)
  
